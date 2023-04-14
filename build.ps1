@@ -1,9 +1,9 @@
 ﻿$ErrorActionPreference = "Stop"
 
-$virtualBoxMinVersion = "6.1.0"
-$packerMinVersion = "1.6.0"
-$vagrantMinVersion = "1.9.0"
-$vagrantreloadMinVersion = "0.0.1"
+$virtualBoxMinVersion = "6.1.1"
+$packerMinVersion = "1.6.1"
+$vagrantMinVersion = "1.9.1"
+$vagrantreloadMinVersion = "0.0.5"
 $packer = "packer.exe"
 $expectedVBoxLocation = "C:\Program Files\Oracle\VirtualBox"
 $expectedVagrantLocation="C:\HashiCorp\Vagrant\bin"
